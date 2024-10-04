@@ -1,6 +1,6 @@
 # IN application vars
 APP_URL=http://in.localhost:8003
-APP_KEY=<insert your generated key in here>
+APP_KEY=base64:Cvo5H8lXYCfF3BFay/rjbuDpG1DHrU7+AGsbY3VeWjw=
 APP_DEBUG=true
 REQUIRE_HTTPS=false
 PHANTOMJS_PDF_GENERATION=false
